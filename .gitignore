@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.orig/
+.env
+.env.*
+.dev.vars*
+.DS_Store
+.venv/
+__pycache__/
+.codex/
+.Codex/
+.claude/
+backups/
+*.log
