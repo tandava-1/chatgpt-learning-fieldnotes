@@ -13,3 +13,6 @@ __pycache__/
 backups/
 *.log
 _local/
+
+# Local only: project context
+CONTEXT.md
